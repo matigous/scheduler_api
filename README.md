@@ -46,36 +46,34 @@ ENVIRONMENT VARIABLES EXAMPLE
 APP_URL=http://localhost:3333
 NODE_ENV=development
 
-# Auth
+Auth:
 
 APP_SECRET=anything
 
-# Database
+Database:
 
 DB_HOST=
 DB_USER=
 DB_PASS=
 DB_NAME=
 
-
-# Mongo
+Mongo:
 
 MONGO_URL=
 
-# Redis
+Redis:
 
 REDIS_HOST=127.0.0.1
 REDIS_PORT=6379
 
-
-# Mail
+Mail:
 
 MAIL_HOST=
 MAIL_PORT=
 MAIL_USER=
 MAIL_PASS=
 
-# Sentry
+Sentry:
 
 SENTRY_DSN=
 
