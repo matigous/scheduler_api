@@ -9,15 +9,15 @@ Package Manager: yarn
 
 Available -> GET LIST
 
-Notifications -> PUT List, GET Update
+Notifications (Mongoose integration) -> PUT List, GET Update
 
 Schedule -> GET List
 
-Appointments -> POST Create, GET List, DEL Delete
+Appointments -> POST Create, GET List, DEL Delete (nodemailer send)
 
 Providers -> GET Index
 
-Sessions -> POST Create
+Sessions (JWT - JSONWEBTOKEN) -> POST Create
 
 Users -> POST Create, PUT Update
 
