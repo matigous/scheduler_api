@@ -54,14 +54,14 @@ APP_SECRET=anything
 
 Database ->
 
-DB_HOST=
-DB_USER=
-DB_PASS=
-DB_NAME=
+DB_HOST= ***
+DB_USER= ***
+DB_PASS= ***
+DB_NAME= ***
 
 Mongo ->
 
-MONGO_URL=
+MONGO_URL= ***
 
 Redis ->
 
@@ -70,14 +70,14 @@ REDIS_PORT=6379
 
 Mail ->
 
-MAIL_HOST=
-MAIL_PORT=
-MAIL_USER=
-MAIL_PASS=
+MAIL_HOST= ***
+MAIL_PORT= ***
+MAIL_USER= ***
+MAIL_PASS= ***
 
 Sentry ->
 
-SENTRY_DSN=
+SENTRY_DSN= ***
 
 
 
