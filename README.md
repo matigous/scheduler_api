@@ -36,7 +36,7 @@ yarn sequelize db:migrate // Migrate DB Structure
 -----------------------------------------------------------
 
 Start Server: 
-yarn dev (default server) 
+yarn dev (default server) // 
 yarn queue (queue server for faster async emails send)
 
 -----------------------------------------------------------
