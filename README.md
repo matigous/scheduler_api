@@ -43,39 +43,39 @@ yarn queue (Redis queue server for faster async emails send)
 
 ENVIRONMENT VARIABLES EXAMPLE (.env)
 
-App ->
+<h5>App</h5>
 
 APP_URL=http://localhost:3333
 NODE_ENV=development
 
-Auth ->
+<h5>Auth</h5>
 
 APP_SECRET=anything
 
-Database ->
+<h5>Database</h5>
 
 DB_HOST= ***
 DB_USER= ***
 DB_PASS= ***
 DB_NAME= ***
 
-Mongo ->
+<h5>Mongo</h5>
 
 MONGO_URL= ***
 
-Redis ->
+<h5>Redis</h5>
 
 REDIS_HOST=127.0.0.1
 REDIS_PORT=6379
 
-Mail ->
+<h5>Mail</h5>
 
 MAIL_HOST= ***
 MAIL_PORT= ***
 MAIL_USER= ***
 MAIL_PASS= ***
 
-Sentry ->
+<h5>Sentry</h5>
 
 SENTRY_DSN= ***
 
